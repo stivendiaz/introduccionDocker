@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "lab",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ioredis": "^4.2.0"
+  }
+}
